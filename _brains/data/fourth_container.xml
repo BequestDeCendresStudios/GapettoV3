@@ -1,0 +1,17 @@
+<screen>
+
+  <container>
+    <color>
+      <cyanwhite></cyanwhite>
+
+      <color_name><highlight>COLOR NAME:</highlight> Cyan Silver</color_name>
+      <color_rgb><highlight>RGB VALUE:</highlight> 222, 222, 224</color_rgb>
+      <color_cymk><highlight>CYML VALUE:</highlight> 2, 2, 0, 31</color_cymk>
+      <color_hex><highlight>HEX VALUE:</highlight> #DEDEE0</color_hex>
+      <color_psychology><highlight>EMOTION:</highlight> Mysterious, Innocense, Sadness</color_psychology>
+      <color_production><highlight>PRODUCTION:</highlight> This color is the off white equivalent to French Eclipse.</color_production>
+      <color_description><highlight>DESCRIPTION:</highlight>This color represents innocense, feminine energy, and the mysterious.</color_description>
+    </color>
+  </container>
+
+</screen>

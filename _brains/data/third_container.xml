@@ -1,0 +1,17 @@
+<screen>
+
+  <container>
+    <color>
+      <frencheclipsedark></frencheclipsedark>
+
+      <color_name><highlight>COLOR NAME:</highlight> French Eclipse ( Dark )</color_name>
+      <color_rgb><highlight>RGB VALUE:</highlight> 33, 33, 34</color_rgb>
+      <color_cymk><highlight>CYML VALUE:</highlight> 15, 15, 0, 220</color_cymk>
+      <color_hex><highlight>HEX VALUE:</highlight> #212123</color_hex>
+      <color_psychology><highlight>EMOTION:</highlight> Sadness, Envy, and Death</color_psychology>
+      <color_production><highlight>PRODUCTION:</highlight> This color is an inversion of Eclipse Superdark.</color_production>
+      <color_description><highlight>DESCRIPTION:</highlight>An inversion of the Eclipse Superdark, which is more reddish-black.</color_description>
+    </color>
+  </container>
+
+</screen>

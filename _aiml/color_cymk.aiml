@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>Can you give me the cymk of the first color?</pattern>
+    <template>
+      The red, green, and blue value of the first color is: <system>cd _brains; ruby first_color_cymk.rb</system>.
+    </template>
+  </category>
+
+  <category>
+    <pattern>Can you give me the cymk of the second color?</pattern>
+    <template>
+      The red, green, and blue value of the first color is: <system>cd _brains; ruby second_color_cymk.rb</system>.
+    </template>
+  </category>
+
+  <category>
+    <pattern>Can you give me the cymk of the third color?</pattern>
+    <template>
+      The red, green, and blue value of the first color is: <system>cd _brains; ruby third_color_cymk.rb</system>.
+    </template>
+  </category>
+
+  <category>
+    <pattern>Can you give me the cymk of the fourth color?</pattern>
+    <template>
+      The red, green, and blue value of the first color is: <system>cd _brains; ruby fourth_color_cymk.rb</system>.
+    </template>
+  </category>
+<aiml>

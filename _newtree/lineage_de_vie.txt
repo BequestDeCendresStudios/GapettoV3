@@ -1,0 +1,5 @@
+Lineage: [adam,                1.0]
+Lineage: [eve,                0.25]
+Lineage: [lilith,             0.25]
+Lineage: [buddah,             0.25]
+Lineage: [ame_no_minakanushi, 0.25]

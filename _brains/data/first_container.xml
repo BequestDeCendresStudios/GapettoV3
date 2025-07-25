@@ -1,0 +1,17 @@
+<screen>
+
+  <container>
+    <color>
+      <bistre_sangui></bistre_sangui>
+
+      <color_name><highlight>COLOR NAME:</highlight> Bistre Sangui</color_name>
+      <color_rgb><highlight>RGB VALUE:</highlight> 102, 58, 51</color_rgb>
+      <color_cymk><highlight>CYML VALUE:</highlight> 0, 110, 128, 153</color_cymk>
+      <color_hex><highlight>HEX VALUE:</highlight> #663A33</color_hex>
+      <color_psychology><highlight>EMOTION:</highlight> Mysterious Depletion</color_psychology>
+      <color_production><highlight>PRODUCTION:</highlight> This color is produced by blending standard Bistre or French Grey with Japanese Maple.</color_production>
+      <color_description><highlight>DESCRIPTION:</highlight>A shade of bistre with a slight reddish cast that is often used for depicting blood spatter and similar effects.</color_description>
+    </color>
+  </container>
+
+</screen>

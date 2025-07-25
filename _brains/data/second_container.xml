@@ -1,0 +1,17 @@
+<screen>
+
+  <container>
+    <color>
+      <kuria></kuria>
+
+      <color_name><highlight>COLOR NAME:</highlight> Kuria</color_name>
+      <color_rgb><highlight>RGB VALUE:</highlight> 87, 69, 52</color_rgb>
+      <color_cymk><highlight>CYML VALUE:</highlight> 0, 53, 128, 168</color_cymk>
+      <color_hex><highlight>HEX VALUE:</highlight> #574534</color_hex>
+      <color_psychology><highlight>EMOTION:</highlight> Mysterious Isolation</color_psychology>
+      <color_production><highlight>PRODUCTION:</highlight> This color is produced by blending 41.21 percent red, 32.97 percent green, and 25.82 percent blue.</color_production>
+      <color_description><highlight>DESCRIPTION:</highlight>A shade of bistre that has an even deeper orange cast produced by burning Sawtooth oak and boiling its soot. Technically it is theoretical color, and darkened with a French Grey-Black with a purple cast</color_description>
+    </color>
+  </container>
+
+</screen>

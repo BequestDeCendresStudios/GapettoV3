@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>Can you give me the production of the first color?</pattern>
+    <template>
+      <system>cd _brains; ruby first_color_production.rb</system>.
+    </template>
+  </category>
+
+  <category>
+    <pattern>Can you give me the production of the second color?</pattern>
+    <template>
+      <system>cd _brains; ruby second_color_production.rb</system>.
+    </template>
+  </category>
+
+  <category>
+    <pattern>Can you give me the production of the third color?</pattern>
+    <template>
+      <system>cd _brains; ruby third_color_production.rb</system>.
+    </template>
+  </category>
+
+  <category>
+    <pattern>Can you give me the production of the fourth color?</pattern>
+    <template>
+      <system>cd _brains; ruby fourth_color_production.rb</system>.
+    </template>
+  </category>
+<aiml>
